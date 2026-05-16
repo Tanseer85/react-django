@@ -2,8 +2,6 @@
 
 DevConnector is a Social Network For Developers. In this Project I have used Django and Django-Rest-Framework for Backend and React For Frontend.
 
-### Demo of this site available here [DevConnector Demo](https://devconn.netlify.com)
-
 ## Frontend( React )
 
 #### To install dependency
@@ -40,7 +38,7 @@ git clone https://github.com/devmahmud/DevConnector-Django.git
 or you can download using the url below
 
 ```
-https://github.com/devmahmud/DevConnector-Django.git
+https://github.com/Tanseer85/react-django.git
 ```
 
 #### Requirements
